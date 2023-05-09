@@ -65,6 +65,16 @@
     background-color: #1d1d1d;
 }
 
+#services .card-body {
+
+  min-height: 435px;
+}
+
+#services button
+{
+  vertical-align: bottom;
+}
+
 #services .text-red {
   color: #c82333;
 }
