@@ -300,3 +300,46 @@
   {
     margin: 50px 0px;
   }
+
+  /* portfolio page */
+  #portfolio-page-b2b-projects
+  {
+    margin-top: 140px;
+  }
+
+  #portfolio-page-b2b-projects .btn-red:hover
+  {
+    background: rgba(189, 43, 43, 0.9);
+    color: white;
+  }
+
+  #portfolio-page-b2c-projects
+  {
+    margin-top: 100px;
+  }
+
+  #portfolio-page-b2c-projects .text-red {
+    color: #c82333;
+}
+#portfolio-page-b2c-projects .btn-red:hover
+  {
+    background: rgba(189, 43, 43, 0.9);
+    color: white;
+  }
+
+#portfolio-page-b2c-projects .card {
+  border: none;
+  background-color: #1d1d1d;
+}
+
+#Contact-page-hero .hero-section
+{
+  height:450px !important;
+  background-image: url('../../assets/images/contactbg.jpg') !important;
+}
+
+#portfolio-page-hero .hero-section
+{
+  height:450px !important;
+  background-image: url('../../assets/images/pool.jpg') !important;
+}
