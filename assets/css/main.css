@@ -351,6 +351,11 @@
   background-image: url('../../assets/images/pool.jpg') !important;
 }
 
+.project-page-hero .hero-section
+{
+  height:450px !important;
+  background-image: url('../../assets/images/pool.jpg') !important;
+}
 .landsacepe-btn
 {
   margin-top: 24px;
@@ -359,4 +364,10 @@
 .swimmingpool-btn
 {
   margin-top: 72px;
+}
+
+
+.project-carousel img
+{
+  height: 400px;
 }
